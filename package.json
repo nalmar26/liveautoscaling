@@ -1,0 +1,17 @@
+{
+  "name": "liveautoscaling",
+  "version": "1.0.0",
+  "description": "liveautoscaling",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^2.0.0",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
